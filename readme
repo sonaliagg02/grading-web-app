@@ -1,0 +1,7 @@
+How to SetUp the code base—
+	1. Download Eclipse EE for Java Developers(Version 2019-06)
+	2. Download Apache Tomcat (Version 9)
+	3. Setup tomcat — https://www.youtube.com/watch?v=h_qQOVDTxo8
+	4. Integrate Tomcat and Eclipse — https://www.youtube.com/watch?v=kLgquZ2FiuQ
+	5. Git Clone app on your machine
+	6. After all thing setup, Run src/main/webapp/index.jsp
