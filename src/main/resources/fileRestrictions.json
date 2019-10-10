@@ -1,0 +1,20 @@
+{
+	"Total maximum Size": 1500000,
+	"Total maximum Size String": "1.5MB",
+	"writeupExtension": [
+		".pdf",
+		".txt"
+	],
+	"codeExtension": [
+		".h",
+		".c",
+		".cpp",
+		".java",
+		".py"
+	],
+	"langaugeOptions": [
+		"C++",
+		"Java",
+		"Python3"
+	]
+}
