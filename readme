@@ -5,3 +5,4 @@ How to SetUp the code base—
 	4. Integrate Tomcat and Eclipse — https://www.youtube.com/watch?v=kLgquZ2FiuQ
 	5. Git Clone app on your machine
 	6. After all thing setup, Run src/main/webapp/index.jsp
+	7. Test
